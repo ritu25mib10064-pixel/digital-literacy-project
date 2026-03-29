@@ -1,0 +1,22 @@
+Phishing is a type of cybercrime in which attackers trick users into revealing sensitive information such as passwords, bank details, or OTPs by pretending to be a trustworthy source.
+
+Case Description:
+Ravi, a middle-aged man, regularly uses online banking. One day, he received an email claiming to be from his bank, stating that his account had an issue and needed urgent verification. The email included a link that looked similar to the official bank website.
+
+Without carefully checking the authenticity of the email, Ravi clicked on the link. He was redirected to a fake website that looked exactly like his bank’s official page. Trusting the website, he entered his user ID, password, and OTP.
+
+Within a few hours, a large amount of money was withdrawn from his bank account without his knowledge.
+
+Investigation and Findings:
+It was later discovered that the email was a phishing attempt. The attackers had created a fake website to steal login credentials. Once Ravi entered his details, the attackers used them to access his account and transfer funds.
+
+Lessons Learned:
+
+Always verify the sender’s email address before trusting any message.
+Avoid clicking on suspicious or unknown links.
+Check the website URL carefully for authenticity.
+Never share sensitive information like passwords or OTPs with anyone.
+Use two-factor authentication for better security.
+
+Conclusion:
+This case highlights how phishing attacks can lead to serious financial losses. Awareness and caution are the best defenses against such cyber threats. By staying alert and following safe online practices, users can protect themselves from phishing attacks.
