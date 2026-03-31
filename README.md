@@ -4,7 +4,7 @@
 ## Student Details
 - Name: Ritu Yadav
 - Registration Number: 25MIB10064
-- Branch: MTECH AI
+- Branch: MTECH in AI
 - Year: 1st Year
 - Course Code: CSE0001
 
